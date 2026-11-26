@@ -40,7 +40,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs" />
 
 ### ⚙️ Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=tailwind,react,express,django,flask,mssql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=tailwind,react,express,nextjs,django,flask,fastapi,mysql,git,github,vscode" />
 
 </div>
 
