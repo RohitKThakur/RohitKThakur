@@ -21,12 +21,14 @@
 
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🔥 Passionate Developer
-- 🌱 Always learning something new
-- 💻 Love building creative projects
-- 🚀 Interested in modern technologies
-- 🎯 Focused on growth and innovation
-- ⚡ Turning ideas into reality with code
+🔭 Currently working on Building a strong foundation in python and OOP concepts, while practicing logic-based problems and small console projects.
+
+🤝 Looking for help with Writing cleaner python code, understanding DSA step-by-step, and improving problem-solving for interviews.
+
+🌱 Currently learning Python, OOPs, basic DSA, and real-world coding practices.
+
+💬 Ask me about Python, beginner logic building, common python mistakes, and learning programming from zero.
+⚡ Fun fact I understand concepts better when I explain them.
 
 <br clear="right"/>
 
