@@ -38,8 +38,9 @@
 
 ### 💻 Languages
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs" />
+
 ### ⚙️ Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=Tailwindcss,reactjs,express,Django,Flask,mssql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=Tailwindcss,reactjs,express,django,flask,Mssql,git,github,vscode" />
 
 </div>
 
