@@ -32,15 +32,15 @@
 
 ---
 
-## 🛠️ MY TECH ARSENAL
+## 🛠️ MY TECH SKILLS
 
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,Typescript,Pyhton,Nodejs" />
 
 ### ⚙️ Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=Tailwindcss,reactjs,express,Django,Flask,mssql,git,github,vscode" />
 
 </div>
 
